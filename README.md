@@ -1,2 +1,2 @@
-# text-similarity-
+# text-similarity
 Sample Code
